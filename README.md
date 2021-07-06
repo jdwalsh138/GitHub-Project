@@ -1,7 +1,7 @@
 <h1>User Story</h1>
 
 ```
-AS A user
+AS 
 I WANT a mobile application that finds nearby restaurants within my location
 SO THAT I can find a place to eat
 ```
